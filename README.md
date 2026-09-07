@@ -5,17 +5,11 @@ Main expertise is in React, TypeScript, and Next.js, with practical backend expe
 ## Tech Stack
 
 **Frontend:** React, TypeScript, Next.js, JavaScript, Redux Toolkit, Zustand
-
 **UI & Styling:** Material UI, Styled Components, Emotion, SCSS/Sass, ApexCharts
-
 **API & Forms:** REST APIs, Axios, React Hook Form
-
 **Testing:** Jest, Cypress, JUnit, MockMvc
-
 **Backend:** Java, Spring Boot, SQL
-
 **Tools:** Git, Jira, Vite, Postman, Swagger
-
 **AI-Assisted Development:** OpenAI Codex, Cursor, ChatGPT
 
 ## Engineering Focus
@@ -30,9 +24,7 @@ Main expertise is in React, TypeScript, and Next.js, with practical backend expe
 
 ## Currently
 
-Working as a frontend-focused Middle Software Engineer on a production LMS/CRM platform.
-
-Continuing to strengthen backend engineering skills and move toward broader full-stack development while keeping frontend as the primary area of expertise.
+Working as a frontend-focused Middle Software Engineer on a production LMS/CRM platform. Continuing to strengthen backend engineering skills and move toward broader full-stack development while keeping frontend as the primary area of expertise.
 
 ## Connect
 
