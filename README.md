@@ -1,10 +1,12 @@
-# Viktor Senyk
-
 ### 💻 Middle Software Engineer · Frontend Focus
 
 Frontend-focused Software Engineer with 3.5+ years of commercial experience building and maintaining production web applications.
 
 Main expertise is in **React, TypeScript, and Next.js**, with practical backend experience using **Java and Spring Boot**.
+
+## 📈 GitHub Activity
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViktorSenyk&theme=github_dark)
 
 ## 🔧 Tech Stack
 
