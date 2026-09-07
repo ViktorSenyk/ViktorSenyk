@@ -10,19 +10,13 @@ Main expertise is in **React, TypeScript, and Next.js**, with practical backend 
 
 ## 🔧 Tech Stack
 
-**Frontend:** React · TypeScript · Next.js · JavaScript · Redux Toolkit · Zustand
-
-**UI & Styling:** Material UI · Styled Components · Emotion · SCSS/Sass · ApexCharts
-
-**API & Forms:** REST APIs · Axios · React Hook Form
-
-**Testing:** Jest · Cypress · JUnit · MockMvc
-
-**Backend:** Java · Spring Boot · SQL
-
-**Tools:** Git · Jira · Vite · Postman · Swagger
-
-**AI-Assisted Development:** OpenAI Codex · Cursor · ChatGPT
+- **Frontend:** React · TypeScript · Next.js · JavaScript · Redux Toolkit · Zustand
+- **UI & Styling:** Material UI · Styled Components · Emotion · SCSS/Sass · ApexCharts
+- **API & Forms:** REST APIs · Axios · React Hook Form
+- **Testing:** Jest · Cypress · JUnit · MockMvc
+- **Backend:** Java · Spring Boot · SQL
+- **Tools:** Git · Jira · Vite · Postman · Swagger
+- **AI-Assisted Development:** OpenAI Codex · Cursor · ChatGPT
 
 ## 🎯 Engineering Focus
 
