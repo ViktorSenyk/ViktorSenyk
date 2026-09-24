@@ -1,8 +1,10 @@
-### 💻 Middle Software Engineer · Frontend Focus
+### 💻 Front-End Developer | Full-Stack Developer
 
-Frontend-focused Software Engineer with 3.5+ years of commercial experience building and maintaining production web applications.
+Front-End / Full-Stack Developer with **3.5+ years of commercial experience** building and maintaining production web applications.
 
-Main expertise is in **React, TypeScript, and Next.js**, with practical backend experience using **Java and Spring Boot**.
+Strongest in **React, TypeScript, JavaScript and Next.js**, with practical backend experience using **Java and Spring Boot**.
+
+Currently working on a production LMS/CRM platform with experience across frontend architecture, REST API integrations, automated testing, backend development, debugging, refactoring, and mentoring.
 
 ## 📈 GitHub Activity
 
@@ -15,21 +17,28 @@ Main expertise is in **React, TypeScript, and Next.js**, with practical backend 
 - **API & Forms:** REST APIs · Axios · React Hook Form
 - **Testing:** Jest · Cypress · JUnit · MockMvc
 - **Backend:** Java · Spring Boot · SQL
-- **Tools:** Git · Jira · Vite · Postman · Swagger
+- **Architecture & Tools:** FSD-inspired Architecture · Git · Jira · Vite · ESLint · Prettier
+- **Development Tools:** Postman · Swagger
 - **AI-Assisted Development:** OpenAI Codex · Cursor · ChatGPT
 
 ## 🎯 Engineering Focus
 
-- Building maintainable frontend applications with reusable components and clear architecture
+- Building maintainable React applications with reusable components and clear architecture
 - Developing responsive and pixel-accurate interfaces
-- Integrating REST APIs and complex application flows
-- Automated testing, refactoring, and code quality
-- Expanding backend engineering experience with Java and Spring Boot
+- Designing complex forms, tables, and data-heavy application flows
+- Integrating REST APIs and working across frontend/backend boundaries
+- Automated testing, debugging, refactoring, and code quality
+- Developing backend functionality with Java and Spring Boot
 - Using AI-assisted workflows for implementation, analysis, testing, debugging, and documentation
+- Mentoring developers through code reviews, technical guidance, and knowledge sharing
 
 ## 🚀 Current Focus
 
-Strengthening backend engineering skills and moving toward broader full-stack development while keeping frontend as the primary area of expertise.
+Building frontend-heavy full-stack applications while continuing to deepen backend engineering experience with Java, Spring Boot, SQL, and API development.
+
+## 🤝 Mentoring
+
+Alongside development, I have experience mentoring students and developers through code reviews, technical guidance, mock interviews, documentation, and code-quality practices.
 
 ## 🔗 Connect
 
